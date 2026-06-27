@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
+| [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Design
 |  |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
