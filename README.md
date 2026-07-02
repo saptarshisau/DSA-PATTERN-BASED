@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -75,17 +76,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
+| [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
+| [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
+| [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Search
 |  |
 | ------- |
