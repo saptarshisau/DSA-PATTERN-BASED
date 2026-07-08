@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
