@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
 | [0233-number-of-digit-one](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
