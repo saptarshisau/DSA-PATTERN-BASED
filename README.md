@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
 ## Quickselect
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0647-palindromic-substrings) |
