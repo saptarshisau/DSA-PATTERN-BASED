@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
 | [0233-number-of-digit-one](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
+| [1041-robot-bounded-in-circle](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1041-robot-bounded-in-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0647-palindromic-substrings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0680-valid-palindrome-ii) |
+| [1041-robot-bounded-in-circle](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1041-robot-bounded-in-circle) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1041-robot-bounded-in-circle](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1041-robot-bounded-in-circle) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
 ## Union-Find
