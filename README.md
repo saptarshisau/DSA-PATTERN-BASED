@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
+| [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
+| [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
 ## Quickselect
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0680-valid-palindrome-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1041-robot-bounded-in-circle) |
+| [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
 ## Backtracking
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
