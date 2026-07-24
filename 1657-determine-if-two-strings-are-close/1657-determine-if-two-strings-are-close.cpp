@@ -1,34 +1,28 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-        map<char, int> mp1, mp2;
-        map<int, int> nu1, nu2;
-        for (auto& ch : word1) {
-            mp1[ch]++;
+        int n = word1.length();
+        int m = word2.length();
+        if(n!=m) return false;
+        int freq1[26]={0};
+        int freq2[26]={0};
+        for(int i=0;i<n;i++){
+            freq1[word1[i]-'a']++;
+            freq2[word2[i]-'a']++;
         }
-        for (auto& ch : word2) {
-            mp2[ch]++;
-        }
-        for (auto& it : mp1) {
-            nu1[it.second]++;
-        }
-        for (auto& it : mp2) {
-            nu2[it.second]++;
-        }
-        if (mp1 == mp2)
-            return true;
-        auto it1 = mp1.begin();
-        auto it2 = mp2.begin();
 
-        while (it1 != mp1.end() && it2 != mp2.end()) {
-            if (it1->first != it2->first)
-                return false;
-            // if (it1->second != it2->second)
-            //     return false;
-            ++it1;
-            ++it2;
+        for(int i=0;i<26;i++){
+            if((freq1[i]!=0 && freq2[i]==0)||(freq1[i]==0 && freq2[i]!=0)) return false;
         }
-        return nu1 == nu2;
+        sort(freq1,freq1+26);
+        sort(freq2,freq2+26);
+
+        for(int i=0;i<26;i++){
+            if(freq1[i]!=freq2[i]){
+                return false;
+            }
+        }
+        return true;
     }
 };
 
