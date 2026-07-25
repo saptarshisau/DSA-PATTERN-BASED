@@ -1,0 +1,3 @@
+TC- O(2N)
+No need of the right array, we can calculate the ans and the right on the fly together
+SC- O(N)
