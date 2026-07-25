@@ -1,0 +1,30 @@
+class Solution {
+public:
+    int candy(vector<int>& ratings) {
+        int n=ratings.size();
+        int sum=1,i=1;
+        while(i<n){
+            int peak=1;
+            while(i<n && ratings[i]>ratings[i-1]){
+                peak++;
+                sum+=peak;
+                i++;
+            }
+            int down=1;
+            while(i<n && ratings[i]<ratings[i-1]){
+                
+                sum+=down;
+                down++;
+                i++;
+            }
+            while(i<n && ratings[i]==ratings[i-1]){
+                sum+=1;
+                i++;
+                // continue;
+            }
+            if(down>peak) sum+=down-peak;
+        }
+        return sum;
+    }
+};
+TC- O(N)
