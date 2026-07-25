@@ -9,60 +9,59 @@
  */
 class Solution {
 public:
-    vector<vector<int>> adj=vector<vector<int>> (501);
-    vector<int> ans;
-    vector<int> vis=vector<int> (501,0);
-    
-    void bfs(TreeNode* target,int  k){
-        for(int i=0;i<501;i++){
-            vis[i]=0;
-        }   
-        queue<int> q;
-        int dist=0;
-        q.push(target->val);
-        vis[target->val]=1;
-        while(!q.empty()){
-            int n=q.size();
-            if(dist==k){
-                while(!q.empty()){
-                    ans.push_back(q.front());
-                    q.pop();
-                }return;
-            }else{
-                while(n--){
-                    int node=q.front();
-                    q.pop();
-                    vis[node]=1;
-                    for(int i:adj[node]){
-                        if(!vis[i]){
-                            vis[i]=1;
-                            q.push(i);
-                        }
-                    }
-                }
-            }
-            dist++;
+void op(TreeNode* target, int k,map<TreeNode*,TreeNode*> &mp,vector<int>& res){
+    if(k==0) {res.push_back(target->val);return;}
+    int level=0;
+    queue<TreeNode*> q;
+     q.push(target);
+     map<TreeNode*,int> vis;
+     vis[target]=1;
+     while(level!=k && !q.empty()){
+        int n=q.size();
 
-            
+        while(n--){
+            TreeNode* curr=q.front();
+            q.pop();
+            if(mp[curr] && !vis[mp[curr]]){
+                if(level==k-1) res.push_back(mp[curr]->val);
+                q.push(mp[curr]);
+                vis[mp[curr]]=1;
+            }
+            if(curr->right && !vis[curr->right]){
+                if(level==k-1) res.push_back(curr->right->val);
+                q.push(curr->right);
+                vis[curr->right]=1;
+            }
+            if(curr->left && !vis[curr->left]){
+                if(level==k-1) res.push_back(curr->left->val);
+                q.push(curr->left);
+                vis[curr->left]=1;
+            }
+        }
+        level++;
+     }
+}
+void bfs(map<TreeNode*,TreeNode*> &mp,TreeNode* root){
+    queue<TreeNode*> q;
+    q.push(root);
+    while(!q.empty()){
+        TreeNode* curr=q.front();
+        q.pop();
+        if(curr->right) {
+            q.push(curr->right);
+            mp[curr->right]=curr;
+        }
+        if(curr->left) {
+            q.push(curr->left);
+            mp[curr->left]=curr;
         }
     }
-    void build(TreeNode* root){
-        if(!root) return;
-        if(root->left){
-            adj[root->val].push_back(root->left->val);
-            adj[root->left->val].push_back(root->val);
-            build(root->left);
-        }
-        if(root->right){
-             adj[root->val].push_back(root->right->val);
-            adj[root->right->val].push_back(root->val);
-            build(root->right);
-        }
-    }
+}
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        build(root);
-        bfs(target,k);
-        
+        map<TreeNode*,TreeNode*> mp;
+        bfs(mp,root);
+        vector<int> ans;
+        op(target,k,mp,ans);
         return ans;
     }
 };
