@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1192-critical-connections-in-a-network) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2685-count-the-number-of-complete-components](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2685-count-the-number-of-complete-components) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2685-count-the-number-of-complete-components](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2685-count-the-number-of-complete-components) |
 ## Design
