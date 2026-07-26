@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1192-critical-connections-in-a-network) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2685-count-the-number-of-complete-components](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2685-count-the-number-of-complete-components](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2685-count-the-number-of-complete-components) |
 ## Design
