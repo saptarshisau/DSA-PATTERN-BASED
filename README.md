@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0633-sum-of-square-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
