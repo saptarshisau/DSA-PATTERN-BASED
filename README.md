@@ -110,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1041-robot-bounded-in-circle) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
 | ------- |
