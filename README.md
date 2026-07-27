@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0680-valid-palindrome-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1041-robot-bounded-in-circle) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
 ## Backtracking
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0387-first-unique-character-in-a-string) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
 ## Data Stream
 |  |
