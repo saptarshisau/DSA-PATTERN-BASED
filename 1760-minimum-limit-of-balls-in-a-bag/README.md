@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag">1886. Minimum Limit of Balls in a Bag</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> where the <code>i<sup>th</sup></code> bag contains <code>nums[i]</code> balls. You are also given an integer <code>maxOperations</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag">1760. Minimum Limit of Balls in a Bag</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> where the <code>i<sup>th</sup></code> bag contains <code>nums[i]</code> balls. You are also given an integer <code>maxOperations</code>.</p>
 
 <p>You can perform the following operation at most <code>maxOperations</code> times:</p>
 
