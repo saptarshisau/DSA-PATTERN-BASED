@@ -1,26 +1,27 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    vector<string> validStrings(int n) {
-        vector<string> ans;
-        for(int num=0;num<(int)pow(2,n);num++){
-            bool b=true;
-            int cnt=0;
-            for(int i=0;i<n;i++){
-                if(((1<<i)&num)==0){
-                    if(cnt==1){
-                        b=false;
-                        break;
-                    } else cnt++;
-                } else {
-                    cnt=0;
-                }
-            }
-            if(b) ans.push_back(bitset<20>(num).to_string().substr(20 - n));
+    void f(int ind,char prevCh, int n, string curr, vector<string>& res) {
+
+        if (ind == n) {
+
+            res.push_back(curr);
+
+            return;
         }
-        return ans;
+        if(prevCh=='#' || prevCh=='1')
+        f(ind + 1, '0',n, curr + "0", res);
+
+        f(ind + 1,'1', n, curr + "1", res);
+    }
+
+    vector<string> validStrings(int n) {
+        string curr = "";
+
+        vector<string> res;
+
+        f(0, '#',n, curr, res);
+
+        return res;
     }
 };
 
