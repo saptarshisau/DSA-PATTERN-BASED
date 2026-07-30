@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1192-critical-connections-in-a-network) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2685-count-the-number-of-complete-components](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2685-count-the-number-of-complete-components](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2685-count-the-number-of-complete-components) |
 ## Biconnected Component
 |  |
