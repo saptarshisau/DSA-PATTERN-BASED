@@ -3,44 +3,38 @@ public:
     bool isDigit(char ch){return ch>='0'&&ch<='9';}
     int calculate(string s) {
         int n=s.size();
-        int number=0,res=0;
-        vector<int> num;
-        vector<char> ops;
-        for(int i=0;i<n;i++){
-            if(s[i]==' ')continue;
-            if(isDigit(s[i])) {
-                number=number*10 + (s[i]-'0');
+        char ops='+';
+        int number=0;
+        stack<int> st;
+        for(int i=0;i<=n;i++){
+            char ch = (i==n)? '+':s[i];
+            if(isDigit(ch)){
+                number=number*10 + (ch-'0');
             }
-            else{
-                num.push_back(number);
+            else if(ch!=' '){
+                if(ops=='+'){
+                    st.push(number);
+                }else if(ops=='-'){
+                    st.push(-number);
+                }else if(ops=='*'){
+                    int top=st.top();
+                    st.pop();
+                    st.push(top*number);
+                }else{
+                    int top=st.top();
+                    st.pop();
+                    st.push(top/number);
+                }
+                ops=ch;
                 number=0;
-                ops.push_back(s[i]);
             }
         }
-        num.push_back(number);
-        for(int i=0;i<ops.size();){
-            if(ops[i]=='*'){
-                num[i]=num[i]*num[i+1];
-                num.erase(num.begin()+i+1);
-                ops.erase(ops.begin()+i);
-            }else if(ops[i]=='/'){
-                num[i]=num[i]/num[i+1];
-                num.erase(num.begin()+i+1);
-                ops.erase(ops.begin()+i);
-            }else {
-                i++;
-            }
+        int ans=0;
+        while(!st.empty()){
+            ans+=st.top();
+            st.pop();
         }
-        res=num[0];
-        for(int i=0;i<ops.size();i++){
-            if(ops[i]=='+'){
-                res+=num[i+1];
-            }else if(ops[i]=='-'){
-                res=res-num[i+1];
-            }
-        }
-        return res;
-
+        return ans;
     }
 };
 
