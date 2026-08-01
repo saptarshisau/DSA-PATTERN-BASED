@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
 | [1710-maximum-units-on-a-truck](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1710-maximum-units-on-a-truck) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2104-sum-of-subarray-ranges](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2104-sum-of-subarray-ranges) |
