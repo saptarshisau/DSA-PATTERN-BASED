@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0064-minimum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0233-number-of-digit-one) |
+| [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0647-palindromic-substrings) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0633-sum-of-square-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
