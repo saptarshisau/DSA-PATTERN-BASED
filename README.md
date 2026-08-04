@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1041-robot-bounded-in-circle) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
