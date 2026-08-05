@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
