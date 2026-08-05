@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1109-corporate-flight-bookings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
+| [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 | [1710-maximum-units-on-a-truck](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Trie
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
+| [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -324,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0051-n-queens) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
