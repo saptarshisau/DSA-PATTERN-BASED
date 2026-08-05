@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
