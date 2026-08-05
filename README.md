@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0014-longest-common-prefix) |
+| [0040-combination-sum-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0064-minimum-path-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
