@@ -7,13 +7,12 @@ public:
         int maxi=0;
         map<char,int> mp;
         while(r<n){
-            while(mp.find(s[r])!=mp.end()){
-                 mp.erase(s[l]);
-                l++;
+            if(mp.find(s[r])!=mp.end() && mp[s[r]]>=l){
+                l=mp[s[r]]+1;
             }
-            mp[s[r]]++;
-            maxi=max(maxi,r-l+1);
-            r++;
+           mp[s[r]]=r;
+           maxi=max(maxi,r-l+1);
+           r++;
         }
         return maxi;
     }
