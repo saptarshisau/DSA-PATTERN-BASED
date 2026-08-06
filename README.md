@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0135-candy) |
+| [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0904-fruit-into-baskets) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
@@ -350,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
