@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0387-first-unique-character-in-a-string) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0125-valid-palindrome) |
