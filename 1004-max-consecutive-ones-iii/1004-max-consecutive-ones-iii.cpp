@@ -10,10 +10,8 @@ while(r < n) {
     if(nums[r] == 0)
         curr++;
 
-    while(curr > k) {
-        if(nums[l] == 0)
-            curr--;
-
+    if(curr > k) {
+        if(!nums[l]) curr--;
         l++;
     }
 
