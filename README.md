@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1109-corporate-flight-bookings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 | [1710-maximum-units-on-a-truck](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
 | [1109-corporate-flight-bookings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1109-corporate-flight-bookings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Two Pointers
 |  |
