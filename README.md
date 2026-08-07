@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0135-candy) |
+| [0209-minimum-size-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0633-sum-of-square-numbers) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
 | [1109-corporate-flight-bookings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
