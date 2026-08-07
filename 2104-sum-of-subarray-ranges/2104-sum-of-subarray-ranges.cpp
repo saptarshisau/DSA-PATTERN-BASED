@@ -2,16 +2,73 @@ class Solution {
 public:
     long long subArrayRanges(vector<int>& nums) {
         int n=nums.size();
-        long long ans=0;
-        for(int i=0;i<n;i++){
-            int maxi=INT_MIN,mini=INT_MAX;
-            for(int j=i;j<n;j++){
-                maxi=max(nums[j],maxi);
-                mini=min(nums[j],mini);
-                ans+=maxi-mini;
-            }
-        }
-        return ans;
+        vector<int>ple(n);
+            vector<int>nle(n);
+                vector<int>pge(n);
+                    vector<int>nge(n);
+                    
+
+                    stack<int>s;
+
+                    for(int i=0;i<n;i++){
+                        while(!s.empty() && nums[s.top()]>=nums[i]){
+                            s.pop();
+                        }
+                             int x= (s.empty()?-1:s.top());
+                          ple[i]=x;
+                          s.push(i);
+                      }
+
+                      while(!s.empty()){
+                        s.pop();
+                      }
+
+                       for(int i=nums.size()-1;i>=0;i--){
+                        while(!s.empty() && nums[s.top()]>nums[i]){
+                            s.pop();
+                        }
+                             int x= (s.empty()?nums.size():s.top());
+                          nle[i]=x;
+                          s.push(i);
+                      }
+
+                      while(!s.empty()){
+                        s.pop();
+                      }
+
+                          for(int i=nums.size()-1;i>=0;i--){
+                        while(!s.empty() && nums[s.top()]<nums[i]){
+                            s.pop();
+                        }
+                             int x= (s.empty()?nums.size():s.top());
+                          nge[i]=x;
+                          s.push(i);
+                      }
+
+                      while(!s.empty()){
+                        s.pop();
+                      }
+
+                    for(int i=0;i<n;i++){
+                        while(!s.empty() && nums[s.top()]<=nums[i]){
+                            s.pop();
+                        }
+                             int x= (s.empty()?-1:s.top());
+                          pge[i]=x;
+                          s.push(i);
+                      }
+
+                      long long int mn=0,mx=0;
+
+                      for(int i=0;i<n;i++){
+                        mn= mn+1LL*(nle[i]-i)*(i-ple[i])*nums[i];
+                      }
+
+                      for(int i=0;i<n;i++){
+                        mx=mx+1LL*(nge[i]-i)*(i-pge[i])*nums[i];
+                      }
+
+                      return mx-mn;
     }
 };
 
