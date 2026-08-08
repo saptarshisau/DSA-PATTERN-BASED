@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0209-minimum-size-subarray-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
