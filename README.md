@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0633-sum-of-square-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -307,10 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
 ## Matrix
 |  |
@@ -396,4 +401,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
