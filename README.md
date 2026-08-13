@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3975-filter-occupied-intervals](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1710-maximum-units-on-a-truck) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
+| [3975-filter-occupied-intervals](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3975-filter-occupied-intervals) |
 ## Quickselect
 |  |
 | ------- |
