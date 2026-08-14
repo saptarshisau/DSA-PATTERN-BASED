@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0146-lru-cache) |
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0328-odd-even-linked-list) |
 | [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 ## Monotonic Queue
 |  |
