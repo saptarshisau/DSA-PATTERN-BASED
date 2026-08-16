@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0907-sum-of-subarray-minimums) |
 | [1109-corporate-flight-bookings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1109-corporate-flight-bookings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0526-beautiful-arrangement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0907-sum-of-subarray-minimums) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
