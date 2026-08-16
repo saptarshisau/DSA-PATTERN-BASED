@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0233-number-of-digit-one) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0633-sum-of-square-numbers) |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0572-subtree-of-another-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
