@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -426,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
