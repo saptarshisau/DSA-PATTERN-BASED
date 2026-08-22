@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
+| [1539-kth-missing-positive-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1539-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0633-sum-of-square-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1539-kth-missing-positive-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Bit Manipulation
 |  |
