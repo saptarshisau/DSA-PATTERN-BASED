@@ -463,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0127-word-ladder) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
