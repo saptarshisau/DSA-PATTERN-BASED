@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0324-wiggle-sort-ii](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0324-wiggle-sort-ii) |
+| [0419-battleships-in-a-board](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0419-battleships-in-a-board) |
 | [0480-sliding-window-median](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0523-continuous-subarray-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0257-binary-tree-paths) |
+| [0419-battleships-in-a-board](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0419-battleships-in-a-board) |
 | [0572-subtree-of-another-tree](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0652-find-duplicate-subtrees) |
 | [0802-find-eventual-safe-states](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0802-find-eventual-safe-states) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0064-minimum-path-sum) |
+| [0419-battleships-in-a-board](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2596-check-knight-tour-configuration) |
