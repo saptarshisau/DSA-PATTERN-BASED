@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2080-range-frequency-queries) |
 | [2104-sum-of-subarray-ranges](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2104-sum-of-subarray-ranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
+| [2438-range-product-queries-of-powers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2438-range-product-queries-of-powers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2596-check-knight-tour-configuration](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2679-sum-in-a-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2438-range-product-queries-of-powers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2438-range-product-queries-of-powers) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2438-range-product-queries-of-powers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2438-range-product-queries-of-powers) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Two Pointers
 |  |
