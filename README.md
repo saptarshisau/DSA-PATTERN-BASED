@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2080-range-frequency-queries](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2080-range-frequency-queries) |
 | [2104-sum-of-subarray-ranges](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2104-sum-of-subarray-ranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1657-determine-if-two-strings-are-close) |
+| [2080-range-frequency-queries](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2080-range-frequency-queries) |
 | [2352-equal-row-and-column-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2965-find-missing-and-repeated-values) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2080-range-frequency-queries](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2080-range-frequency-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2080-range-frequency-queries](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2080-range-frequency-queries) |
 ## Trie
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/0493-reverse-pairs) |
 | [1395-count-number-of-teams](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/1395-count-number-of-teams) |
+| [2080-range-frequency-queries](https://github.com/saptarshisau/LEETCODE-SOLVED/tree/master/2080-range-frequency-queries) |
 ## Matrix
 |  |
 | ------- |
