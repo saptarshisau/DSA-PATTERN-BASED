@@ -1,0 +1,5 @@
+# [Range Min Max Queries](https://www.geeksforgeeks.org/problems/range-min-max-queries4557/1)
+## Medium
+Given an integer array arr[] and a 2D array queries[][] containing q queries, where each query is one of the following two types:Type 1: [1, l, r] -&gt; Return the minimum and maximum values in the range [l, r] (both inclusive).Type 2: [2, index, value] -&gt; Update arr[index] to value.Return an array containing the answers to all Type 1 queries in the order they appear in queries[][].Note: Use 0-based indexing.Examples:Input: arr[] = [11, 3, 7, 5, 9, 1], q = 3, queries[][] = [[1, 0, 2],[2, 3, 17],[1, 0, 5]]Output: [[3, 11], [1, 17]]Explanation:Query [1, 0, 2]: The minimum and maximum from index 0 to 2 is 3 and 11 respectively.
+Query [2, 3, 17]: Update the value at index 3 from 5 to 17.
+Query [1, 0, 5]: The minimum and maximum from index 0 to 5 is 1 and 17 respectively.Input: arr[] = [3, 1, 1, 2, 5], q = 1, queries[][] = [[1, 0, 4]]Output: [1, 5]Explanation:Query [1, 0, 4]: The minimum and maximum from index 0 to 4 is 1 and 5 respectively.Constraints:1 ≤ arr.size(), q ≤ 1051 ≤ arr[i], value ≤ 1040 ≤ l ≤ r &lt; arr.size()0 ≤ index &lt; arr.size()
